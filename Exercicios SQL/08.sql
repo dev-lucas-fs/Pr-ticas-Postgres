@@ -1,0 +1,1 @@
+UPDATE CLIENTES SET CPF = 04652651298 WHERE NOME = 'Lucca Santarém Branco';
